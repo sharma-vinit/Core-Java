@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE user SYSTEM "user.dtd">
+<root>
+	<row>
+		<column name="username" length="16">admin</column>
+		<column name="password" length="128">secret</column>
+	</row>
+	<row>
+		<column name="username" length="16">jdoe</column>
+		<column name="password" length="128">password</column>
+	</row>
+</root>
